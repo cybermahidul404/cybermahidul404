@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Khandaker Mahidul Islam</h1>
-<h3 align="center">🔐 Security Engineer | Penetration Tester | SOC Analyst</h3>
+<h3 align="center">🔐 Cybersecurity Engineer | VAPT Specialist | SOC Analyst</h3>
 
 ---
 
