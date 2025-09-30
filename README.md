@@ -16,7 +16,7 @@ My passion is to build and break systems — from **finding vulnerabilities** th
 ---
 
 ## 🏆 Highlight Projects
-- **[SecureJS – JavaScript Vulnerability Scanner (Chrome Extension)](https://github.com/cybermahidul404/cybermahidul404/javascript-vulnerability-scanner-extension)**  
+- **[SecureJS – JavaScript Vulnerability Scanner (Chrome Extension)](https://github.com/cybermahidul404/Js_vulenrable_scanner_extensions)**  
   Detects vulnerable JavaScript libraries across subdomains using crt.sh + OSV.dev API.  
 
 - **SOC Playbook Automation (Private Repo)**  
