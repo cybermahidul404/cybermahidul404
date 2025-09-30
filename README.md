@@ -9,8 +9,8 @@ My passion is to build and break systems — from **finding vulnerabilities** th
 
 - 🛡️ **Defensive:** SOC Monitoring, SIEM, Incident Response, Threat Detection & Mitigation  
 - 💥 **Offensive:** Vulnerability Assessment, Penetration Testing, Exploit Research  
-- ⚙️ **Tools:** Burp Suite, Nmap, Wireshark, Metasploit, Nessus, Splunk, ELK, OSINT tools  
-- 💻 **Code & Automation:** Python, JavaScript, Bash, Regex, Chrome Extensions  
+- ⚙️ **Tools:** Burp Suite, Nmap, Wireshark, Metasploit, Nessus, Splunk, Wazuh, OSINT tools  
+- 💻 **Code & Automation:** Python, JavaScript, Bash, Chrome Extensions  
 - 📊 **Other Interests:** Threat Hunting, Malware Analysis, Security Automation  
 
 ---
@@ -31,10 +31,10 @@ My passion is to build and break systems — from **finding vulnerabilities** th
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cybermahidul404&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermahidul404&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
