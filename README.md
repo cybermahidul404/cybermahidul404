@@ -40,7 +40,7 @@ My passion is to build and break systems — from **finding vulnerabilities** th
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **mahidulislam.sec@gmail.com**  
+- 📧 Email: **mahidulislam.cyber@gmail.com**  
 - 🌐 LinkedIn: [linkedin.com/in/khandaker-mahidul-islam](https://www.linkedin.com/in/khandaker-mahidul-islam/)  
 - 🐙 GitHub: [github.com/cybermahidul404](https://github.com/cybermahidul404/cybermahidul404)  
 
