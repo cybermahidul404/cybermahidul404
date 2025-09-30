@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Khandaker Mahidul Islam</h1>
+<h3 align="center">🔐 Security Engineer | Penetration Tester | SOC Analyst</h3>
 
-<!--
-**cybermahidul404/cybermahidul404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I’m a **Cybersecurity Professional** with hands-on expertise in both **Offensive Security (VAPT / Red Teaming)** and **Defensive Security (SOC / Blue Teaming)**.  
+My passion is to build and break systems — from **finding vulnerabilities** through penetration testing to **detecting & mitigating threats** in real-time SOC operations.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛡️ **Defensive:** SOC Monitoring, SIEM, Incident Response, Threat Detection & Mitigation  
+- 💥 **Offensive:** Vulnerability Assessment, Penetration Testing, Exploit Research  
+- ⚙️ **Tools:** Burp Suite, Nmap, Wireshark, Metasploit, Nessus, Splunk, ELK, OSINT tools  
+- 💻 **Code & Automation:** Python, JavaScript, Bash, Regex, Chrome Extensions  
+- 📊 **Other Interests:** Threat Hunting, Malware Analysis, Security Automation  
+
+---
+
+## 🏆 Highlight Projects
+- **[SecureJS – JavaScript Vulnerability Scanner (Chrome Extension)](https://github.com/cybermahidul404/cybermahidul404/javascript-vulnerability-scanner-extension)**  
+  Detects vulnerable JavaScript libraries across subdomains using crt.sh + OSV.dev API.  
+
+- **SOC Playbook Automation (Private Repo)**  
+  Automated detection rules & incident workflows for common web attacks.  
+
+- **Custom Recon Toolkit (Private Repo)**  
+  A Python-based recon tool integrating OSINT, subdomain enumeration, and vulnerability detection.  
+
+*(More projects available on request — some restricted due to NDA)*  
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **mahidulislam.sec@gmail.com**  
+- 🌐 LinkedIn: [linkedin.com/in/khandaker-mahidul-islam](https://www.linkedin.com/in/khandaker-mahidul-islam/)  
+- 🐙 GitHub: [github.com/cybermahidul404](https://github.com/cybermahidul404/cybermahidul404)  
+
+---
+
+⭐️ From [Khandaker Mahidul Islam](https://github.com/cybermahidul404/cybermahidul404)  
